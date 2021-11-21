@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://github.com/4CCoxAU/</link>
-      <atom:link href="https://github.com/4CCoxAU/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://4CCoxAU.github.io/website/</link>
+      <atom:link href="https://4CCoxAU.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/4CCoxAU/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://4CCoxAU.github.io/website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://github.com/4CCoxAU/</link>
+      <link>https://4CCoxAU.github.io/website/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://github.com/4CCoxAU/courses/example/python/</link>
+      <link>https://4CCoxAU.github.io/website/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/courses/example/python/</guid>
+      <guid>https://4CCoxAU.github.io/website/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://github.com/4CCoxAU/courses/example/visualization/</link>
+      <link>https://4CCoxAU.github.io/website/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/courses/example/visualization/</guid>
+      <guid>https://4CCoxAU.github.io/website/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>https://github.com/4CCoxAU/courses/example/stats/</link>
+      <link>https://4CCoxAU.github.io/website/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/courses/example/stats/</guid>
+      <guid>https://4CCoxAU.github.io/website/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,33 +109,33 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Infant-Directed Speech</title>
-      <link>https://github.com/4CCoxAU/project/internal-project/</link>
+      <link>https://4CCoxAU.github.io/website/project/internal-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/project/internal-project/</guid>
+      <guid>https://4CCoxAU.github.io/website/project/internal-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ManyBabies fNIRS</title>
-      <link>https://github.com/4CCoxAU/project/internal-project-copy/</link>
+      <link>https://4CCoxAU.github.io/website/project/internal-project-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/project/internal-project-copy/</guid>
+      <guid>https://4CCoxAU.github.io/website/project/internal-project-copy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vocal Exploration</title>
-      <link>https://github.com/4CCoxAU/project/external-project/</link>
+      <link>https://4CCoxAU.github.io/website/project/external-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/project/external-project/</guid>
+      <guid>https://4CCoxAU.github.io/website/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://github.com/4CCoxAU/talk/example-talk/</link>
+      <link>https://4CCoxAU.github.io/website/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/talk/example-talk/</guid>
+      <guid>https://4CCoxAU.github.io/website/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -153,17 +153,17 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>2020 12 01 R Rmarkdown</title>
-      <link>https://github.com/4CCoxAU/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://4CCoxAU.github.io/website/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Sat, 20 Nov 2021 21:04:49 +0100</pubDate>
-      <guid>https://github.com/4CCoxAU/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://4CCoxAU.github.io/website/post/2020-12-01-r-rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://github.com/4CCoxAU/post/getting-started/</link>
+      <link>https://4CCoxAU.github.io/website/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/post/getting-started/</guid>
+      <guid>https://4CCoxAU.github.io/website/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -238,9 +238,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://github.com/4CCoxAU/post/writing-technical-content/</link>
+      <link>https://4CCoxAU.github.io/website/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/post/writing-technical-content/</guid>
+      <guid>https://4CCoxAU.github.io/website/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -264,7 +264,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-269485137&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-273195468&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -274,7 +274,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-269485137&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-273195468&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -502,9 +502,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://github.com/4CCoxAU/post/jupyter/</link>
+      <link>https://4CCoxAU.github.io/website/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/post/jupyter/</guid>
+      <guid>https://4CCoxAU.github.io/website/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -566,9 +566,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://github.com/4CCoxAU/slides/example/</link>
+      <link>https://4CCoxAU.github.io/website/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/slides/example/</guid>
+      <guid>https://4CCoxAU.github.io/website/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -695,49 +695,49 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://github.com/4CCoxAU/admin/config.yml</link>
+      <link>https://4CCoxAU.github.io/website/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/admin/config.yml</guid>
+      <guid>https://4CCoxAU.github.io/website/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bayesian meta-analysis of infants’ ability to perceive audio--visual congruence for speech</title>
-      <link>https://github.com/4CCoxAU/publication/a_v_meta_analysis/</link>
+      <link>https://4CCoxAU.github.io/website/publication/a_v_meta_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/publication/a_v_meta_analysis/</guid>
+      <guid>https://4CCoxAU.github.io/website/publication/a_v_meta_analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic review and Bayesian meta-analysis of the development of turn taking in adult-child vocal interactions</title>
-      <link>https://github.com/4CCoxAU/publication/tt_paper/</link>
+      <link>https://4CCoxAU.github.io/website/publication/tt_paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/publication/tt_paper/</guid>
+      <guid>https://4CCoxAU.github.io/website/publication/tt_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Did I just do that?”—Six-month-olds learn the contingency between their vocalizations and a visual reward in 5 minutes</title>
-      <link>https://github.com/4CCoxAU/publication/babbleapp/</link>
+      <link>https://4CCoxAU.github.io/website/publication/babbleapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/publication/babbleapp/</guid>
+      <guid>https://4CCoxAU.github.io/website/publication/babbleapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infant Development as Uncertainty Reduction: Bayesian Insights on Phonological Acquisition</title>
-      <link>https://github.com/4CCoxAU/publication/bayesian_insights/</link>
+      <link>https://4CCoxAU.github.io/website/publication/bayesian_insights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/publication/bayesian_insights/</guid>
+      <guid>https://4CCoxAU.github.io/website/publication/bayesian_insights/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying sources of variability in infancy research using the infant-directed-speech preference</title>
-      <link>https://github.com/4CCoxAU/publication/manybabies/</link>
+      <link>https://4CCoxAU.github.io/website/publication/manybabies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/publication/manybabies/</guid>
+      <guid>https://4CCoxAU.github.io/website/publication/manybabies/</guid>
       <description></description>
     </item>
     

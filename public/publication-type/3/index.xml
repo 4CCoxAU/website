@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Academic</title>
-    <link>https://github.com/4CCoxAU/publication-type/3/</link>
-      <atom:link href="https://github.com/4CCoxAU/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://4CCoxAU.github.io/website/publication-type/3/</link>
+      <atom:link href="https://4CCoxAU.github.io/website/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://github.com/4CCoxAU/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://4CCoxAU.github.io/website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://github.com/4CCoxAU/publication-type/3/</link>
+      <link>https://4CCoxAU.github.io/website/publication-type/3/</link>
     </image>
     
     <item>
       <title>A systematic review and Bayesian meta-analysis of the development of turn taking in adult-child vocal interactions</title>
-      <link>https://github.com/4CCoxAU/publication/tt_paper/</link>
+      <link>https://4CCoxAU.github.io/website/publication/tt_paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/publication/tt_paper/</guid>
+      <guid>https://4CCoxAU.github.io/website/publication/tt_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infant Development as Uncertainty Reduction: Bayesian Insights on Phonological Acquisition</title>
-      <link>https://github.com/4CCoxAU/publication/bayesian_insights/</link>
+      <link>https://4CCoxAU.github.io/website/publication/bayesian_insights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/4CCoxAU/publication/bayesian_insights/</guid>
+      <guid>https://4CCoxAU.github.io/website/publication/bayesian_insights/</guid>
       <description></description>
     </item>
     
