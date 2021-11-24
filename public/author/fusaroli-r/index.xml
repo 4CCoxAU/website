@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fusaroli, R | ChrisCox</title>
+    <link>https://4CCoxAU.github.io/website/author/fusaroli-r/</link>
+      <atom:link href="https://4CCoxAU.github.io/website/author/fusaroli-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fusaroli, R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://4CCoxAU.github.io/website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Fusaroli, R</title>
+      <link>https://4CCoxAU.github.io/website/author/fusaroli-r/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian meta-analysis of infants’ ability to perceive audio--visual congruence for speech</title>
+      <link>https://4CCoxAU.github.io/website/publication/a_v_meta_analysis/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://4CCoxAU.github.io/website/publication/a_v_meta_analysis/</guid>
+      <description>&lt;p&gt;This paper quantifies the extent to which infants can perceive  audio–visual  congruence  for  speech  information  and  assesses  whether  this  ability  changes  with  native  language  exposure  over  time.  A  hierarchical  Bayesian  robust  regression  model  of  92  separate  effect  sizes  extracted from 24 studies indicates a moderate effect size in a positive direction (0.35, CI [0.21: 0.50]). This result suggests  that  infants  possess  a  robust  ability  to  detect  audio-visual  congruence  for  speech.  Moderator  analyses, moreover, suggest that infants’ audio–visual matching  ability  for  speech  emerges  at  an  early  point  in  the  process  of  language  acquisition  and  remains  stable  for  both native and non-native speech throughout early development.  A  sensitivity  analysis  of  the  meta-analytic data,  however,  indicates  that  a  moderate  publication  bias for significant results could shift the lower credible interval to include null effects. Based on these findings, we  outline  recommendations  for  new  lines  of  enquiry  and suggest ways to improve the replicability of results in future investigations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1111/infa.12436&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/infa.12436&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

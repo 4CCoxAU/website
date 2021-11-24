@@ -4,11 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 theme: minimal
-day_night: show_day_night
+day_night: day_night
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -48,7 +47,7 @@ main_menu:
   align: l
   show_logo: false
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: false
   highlight_active_link: true
 
