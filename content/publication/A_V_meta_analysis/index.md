@@ -7,7 +7,7 @@ authors:
 - Fusaroli, R
 doi: "https://doi.org/10.1111/infa.12436"
 date: "2021-09-01T00:00:00Z"
-publication: "Infancy"
+publication: "Infancy 00, 1-30"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
