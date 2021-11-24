@@ -5,7 +5,7 @@
     <link>https://4CCoxAU.github.io/website/author/manybabies-consortium/</link>
       <atom:link href="https://4CCoxAU.github.io/website/author/manybabies-consortium/index.xml" rel="self" type="application/rss+xml" />
     <description>ManyBabies Consortium&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://4CCoxAU.github.io/website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>ManyBabies Consortium&#34;</title>
@@ -15,9 +15,10 @@
     <item>
       <title>Quantifying sources of variability in infancy research using the infant-directed-speech preference</title>
       <link>https://4CCoxAU.github.io/website/publication/manybabies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://4CCoxAU.github.io/website/publication/manybabies/</guid>
-      <description></description>
+      <description>&lt;p&gt;Psychological scientists have become increasingly concerned with issues related to methodology and replicability, and infancy researchers in particular face specific challenges related to replicability: For example, high-powered studies are difficult to conduct, testing conditions vary across labs, and different labs have access to different infant populations. Addressing these concerns, we report on a large-scale, multisite study aimed at (a) assessing the overall replicability of a single theoretically important phenomenon and (b) examining methodological, cultural, and developmental moderators. We focus on infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS). Stimuli of mothers speaking to their infants and to an adult in North American English were created using seminaturalistic laboratory-based audio recordings. Infants’ relative preference for IDS and ADS was assessed across 67 laboratories in North America, Europe, Australia, and Asia using the three common methods for measuring infants’ discrimination (head-turn preference, central fixation, and eye tracking). The overall meta-analytic effect size (Cohen’s d) was 0.35, 95% confidence interval = [0.29, 0.42], which was reliably above zero but smaller than the meta-analytic mean computed from previous literature (0.67). The IDS preference was significantly stronger in older children, in those children for whom the stimuli matched their native language and dialect, and in data from labs using the head-turn preference procedure. Together, these findings replicate the IDS preference but suggest that its magnitude is modulated by development, native-language experience, and testing procedure.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
