@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Is theme light or dark?
-light = false
+Light = true
 
 # Primary
-primary = "hsl(339, 90%, 68%)"
+primary = "#FFFFFF"
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"

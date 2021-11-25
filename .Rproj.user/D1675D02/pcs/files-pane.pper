@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         }
     ],
-    "path": "~/Desktop/academic_website/config/_default"
+    "path": "~/Desktop/academic_website/content/admin"
 }
