@@ -19,6 +19,8 @@ menu_title = "#f2f3f4"
 home_section_odd = "#34495e"
 home_section_even = "#85929e"
 
+link = "#212f3d"
+
 [dark]
-  link = "#117a65"
-  link_hover = "#117a65"
+  link = "#f2f3f4"
+  link_hover = "#f2f3f4"
